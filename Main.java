@@ -127,7 +127,6 @@ class TruckFactory extends VehicleFactory {
     }
 }
 
-// фабрика автобуса
 class BusFactory extends VehicleFactory {
     private int seats;
     private String route;
