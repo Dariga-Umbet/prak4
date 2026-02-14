@@ -153,7 +153,7 @@ public class Main {
         System.out.println("4 - Bus");
 
         int choice = scanner.nextInt();
-        scanner.nextLine(); // очистка
+        scanner.nextLine(); 
 
         VehicleFactory factory = null;
 
